@@ -21,7 +21,6 @@ This script fetches a list of all Pantheon sites associated with the authenticat
 This script processes a JSON file containing a list of Pantheon sites, filters for sites on the "Basic" plan, and fetches the domains for each of those sites.
 
 **Features:**
-- Removes hard-coded paths for portability.
 - Accepts a command-line argument for the input file path.
 - If no input file is provided, it defaults to looking for `pantheon-domains.json` in the script's directory.
 - If the default file is not found, it will run the `fetch_pantheon_sites.sh` script to generate it.
@@ -42,7 +41,7 @@ To specify an input file:
 python process_pantheon_sites.py /path/to/your/sites.json
 ```
 
-**Note:** your file needs to be formatted like so  
+**Note:** your custom input file needs to be formatted   `id`, `name` and `plan_name` are required.
 ```json
 "055ac97f-ec08-4457-be93-9feae1eb45aa": {
         "name": "ucr-pantheonsitename",
