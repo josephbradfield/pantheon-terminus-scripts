@@ -3,7 +3,7 @@
 This directory contains scripts for fetching and processing information about Pantheon sites.
 
 ## Scripts
-
+ 
 ### `fetch_pantheon_sites.sh`
 
 This script fetches a list of all Pantheon sites associated with the authenticated user and saves the output to a file named `pantheon-sites.json` in the same directory.
