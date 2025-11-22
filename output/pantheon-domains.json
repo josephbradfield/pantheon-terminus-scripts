@@ -1,0 +1,708 @@
+{
+    "95d75dc0-07f5-4002-ba2d-1b4e43d8450c": {
+        "name": "ucr-nanofluidbcoe",
+        "domains": [
+            "multimodal.ucr.edu",
+            "multimodal.engr.ucr.edu",
+            "nanochiral.engr.ucr.edu"
+        ]
+    },
+    "00d3d6fc-53ba-4651-b84e-6743748897d8": {
+        "name": "ucr-uclightbcoe",
+        "domains": [
+            "www.uclight.ucr.edu",
+            "uclight.ucr.edu"
+        ]
+    },
+    "03e28fdb-33e8-4d75-8132-a1256d3caa40": {
+        "name": "ucr-pdcsbcoe",
+        "domains": [
+            "pdcs.engr.ucr.edu"
+        ]
+    },
+    "04e03485-4a44-4fb9-b7b0-cae5b24c6326": {
+        "name": "ucr-weareinbcoe",
+        "domains": [
+            "wearein.engr.ucr.edu"
+        ]
+    },
+    "08d72dc2-02c8-4041-aa86-eb8f0fd52096": {
+        "name": "ucr-noshadilabbcoe",
+        "domains": [
+            "noshadilab.engr.ucr.edu"
+        ]
+    },
+    "09ad7468-6094-4eb9-80d2-49fc963e5b55": {
+        "name": "ucr-bmechlabbcoe",
+        "domains": [
+            "bmech.engr.ucr.edu",
+            "bmech.ucr.edu"
+        ]
+    },
+    "0c8d11de-76b3-4f07-b8de-0804762ab08b": {
+        "name": "ucr-pollutionbcoe",
+        "domains": [
+            "pollution.ucr.edu"
+        ]
+    },
+    "0cc534cf-be44-44c8-a66e-0c3a1b68ca20": {
+        "name": "ucr-mrzgroupbcoe",
+        "domains": [
+            "mrzgroup.ucr.edu",
+            "mrzgroup.engr.ucr.edu"
+        ]
+    },
+    "11148680-47fc-4cf1-9852-f188e8cee9c7": {
+        "name": "ucr-xichenlabbcoe",
+        "domains": [
+            "xichenlab.engr.ucr.edu"
+        ]
+    },
+    "122db36c-92a9-490f-b8ed-707491677e52": {
+        "name": "ucr-bbdlbcoe",
+        "domains": [
+            "bbdl.engr.ucr.edu"
+        ]
+    },
+    "14121dfb-d87a-4d1b-98ac-5e12bd48679e": {
+        "name": "ucr-mihrilabbcoe",
+        "domains": [
+            "mihrilab.engr.ucr.edu"
+        ]
+    },
+    "14e8c3ea-c13f-42cf-ac2b-bb2dd80549ce": {
+        "name": "ucr-mobilityengineeringbcoe",
+        "domains": [
+            "mobility.engr.ucr.edu",
+            "automotive.engr.ucr.edu",
+            "transportation.engr.ucr.edu"
+        ]
+    },
+    "161d46ab-9c50-4615-b730-19831cec8912": {
+        "name": "ucr-ecocarbcoe",
+        "domains": [
+            "ecocar.engr.ucr.edu"
+        ]
+    },
+    "16ac7334-cd71-41a7-96ab-ac3c4d386c05": {
+        "name": "ucr-sdrbcoe",
+        "domains": [
+            "sdr.engr.ucr.edu",
+            "sdr.ucr.edu"
+        ]
+    },
+    "17f6d3bd-bcf3-4df6-a1f2-c6d30d0ea1ea": {
+        "name": "ucr-bioannualreport2022bcoe",
+        "domains": [
+            "bioannualreport2022.engr.ucr.edu"
+        ]
+    },
+    "18e1c316-273f-4765-8bcd-305c801eb2c1": {
+        "name": "ucr-vsclabbcoe",
+        "domains": [
+            "vsclab.engr.ucr.edu",
+            "vsclab.mse.ucr.edu",
+            "vsclab.ece.ucr.edu",
+            "sclab.ee.ucr.edu"
+        ]
+    },
+    "1ac65cff-0d57-41f5-8127-e41efe88583f": {
+        "name": "ucr-liulabbcoe",
+        "domains": [
+            "liulab.engr.ucr.edu"
+        ]
+    },
+    "1d42e670-7a7d-4e40-bd81-44128e86b0d7": {
+        "name": "ucr-rampbcoe",
+        "domains": [
+            "ramp.engr.ucr.edu"
+        ]
+    },
+    "1eff0a7f-4aac-4c25-9231-c836e155b7cb": {
+        "name": "ucr-arcslabbcoe",
+        "domains": [
+            "arcs.engr.ucr.edu"
+        ]
+    },
+    "1f0ea738-dde2-40c1-b849-eb0dae59bbe2": {
+        "name": "ucr-nazaripouyalabbcoe",
+        "domains": [
+            "nazaripouyalab.engr.ucr.edu"
+        ]
+    },
+    "20cf0bce-fe07-437a-9061-83dab0b9ed1c": {
+        "name": "ucr-biomodelbcoe",
+        "domains": [
+            "biomodel.engr.ucr.edu",
+            "biomodel.ucr.edu"
+        ]
+    },
+    "24a11727-e8d0-47d7-9337-206a742f1139": {
+        "name": "ucr-realmutolabbcoe",
+        "domains": [
+            "bsl.engr.ucr.edu"
+        ]
+    },
+    "25c1e031-34c4-493b-80be-7a5e9652cbfe": {
+        "name": "ucr-kknetsyslabcsbcoe",
+        "domains": [
+            "kknetsyslab.cs.ucr.edu"
+        ]
+    },
+    "2fc1a2b2-75bd-4bb2-a9e4-ffd59e5027f5": {
+        "name": "ucr-covenbcoe",
+        "domains": [
+            "coven.engr.ucr.edu"
+        ]
+    },
+    "302f5fc0-6a9c-40d0-b6a8-86950d60f2fc": {
+        "name": "ucr-crespbcoe",
+        "domains": [
+            "cresp.cs.ucr.edu"
+        ]
+    },
+    "32f4964e-b2d1-4549-a3b1-b8ca29bd71d9": {
+        "name": "ucr-msebcoe",
+        "domains": [
+            "mse.ucr.edu",
+            "www.mse.ucr.edu"
+        ]
+    },
+    "330e5867-2714-4f79-9d3b-c9380e9153b4": {
+        "name": "ucr-tbpbcoe",
+        "domains": [
+            "tbp.ucr.edu"
+        ]
+    },
+    "3329933c-5f1e-4b90-8274-3afb56153eaf": {
+        "name": "ucr-philipbcoecs",
+        "domains": [
+            "philip.cs.ucr.edu"
+        ]
+    },
+    "34c348dd-7070-44f4-b88c-2ae5f05eca21": {
+        "name": "ucr-decodebcoe",
+        "domains": [
+            "decode.engr.ucr.edu"
+        ]
+    },
+    "38c39d3b-ae6b-43a9-b515-f1e6871f2bda": {
+        "name": "ucr-nc4bcoe",
+        "domains": [
+            "nc4.ucr.edu",
+            "nc4.engr.ucr.edu"
+        ]
+    },
+    "391f6d28-664d-4122-ad05-ae34d418e738": {
+        "name": "ucr-christopherlabbcoe",
+        "domains": [
+            "christopherlab.engr.ucr.edu"
+        ]
+    },
+    "3a780a47-445d-401a-93aa-1770c62c1e9c": {
+        "name": "ucr-microfluidicsbcoe",
+        "domains": [
+            "microfluidics.cs.ucr.edu"
+        ]
+    },
+    "3b4423a1-225c-4a97-982a-3781bbe284bc": {
+        "name": "ucr-eceannualreport2021bcoe",
+        "domains": [
+            "eceannualreport2021.engr.ucr.edu"
+        ]
+    },
+    "3d4c048f-98bb-4bf2-b0c1-1228bfc6cb58": {
+        "name": "ucr-e3bcoe",
+        "domains": [
+            "e3.ucr.edu"
+        ]
+    },
+    "4080f65a-0887-4e2c-baeb-4d8e2379684b": {
+        "name": "ucr-bioannualreport2021bcoe",
+        "domains": [
+            "bioannualreport2021.engr.ucr.edu"
+        ]
+    },
+    "41ee7690-5bdf-4032-af71-7e059ca88963": {
+        "name": "ucr-engineeringweekbcoe",
+        "domains": [
+            "engineeringweek.engr.ucr.edu"
+        ]
+    },
+    "465f73d9-f42e-436f-bd8d-1f92dc30e0ec": {
+        "name": "ucr-kawailabbcoe",
+        "domains": [
+            "kawailab.engr.ucr.edu"
+        ]
+    },
+    "4aae8f71-4350-4cce-8cd5-eed3faccb542": {
+        "name": "ucr-canbcoe",
+        "domains": [
+            "can.ucr.edu"
+        ]
+    },
+    "4b2e4fde-79d8-4c58-8a13-ebf57d638aef": {
+        "name": "ucr-barsantigrpbcoe",
+        "domains": [
+            "barsantigrp.engr.ucr.edu"
+        ]
+    },
+    "4f00cb10-dd68-4bb2-91fe-a33832d10cf0": {
+        "name": "ucr-bien15yrbcoe",
+        "domains": [
+            "15years.bioeng.ucr.edu"
+        ]
+    },
+    "52db5bb3-6939-4b75-849d-3ec37e96c0f9": {
+        "name": "ucr-chenlabbcoe",
+        "domains": [
+            "chenlab.ucr.edu"
+        ]
+    },
+    "54f24442-1b5d-424b-9042-cb3cf2fb905a": {
+        "name": "ucr-vcgbcoe",
+        "domains": [
+            "vcg.engr.ucr.edu",
+            "vcg.ee.ucr.edu",
+            "vcg.ece.ucr.edu",
+            "vlg.engr.ucr.edu"
+        ]
+    },
+    "5fad9695-6fb2-41aa-a78a-31656b30f2e9": {
+        "name": "ucr-ceebcoe",
+        "domains": [
+            "www.cee.ucr.edu",
+            "cee.ucr.edu"
+        ]
+    },
+    "615b87d3-6163-474c-8c4e-9718823f3c38": {
+        "name": "ucr-cenbcoe",
+        "domains": [
+            "ce.ucr.edu",
+            "www.ce.ucr.edu",
+            "cen.ucr.edu",
+            "www.cen.ucr.edu"
+        ]
+    },
+    "62ea4edf-095f-4fbd-a03a-4eaf3b2884f9": {
+        "name": "ucr-graduatebcoe",
+        "domains": [
+            "graduate.engr.ucr.edu"
+        ]
+    },
+    "63186378-108e-4b65-b5e8-e1febb816b6c": {
+        "name": "ucr-dcockerbcoe",
+        "domains": [
+            "cockerlab.engr.ucr.edu"
+        ]
+    },
+    "637b34bc-cd53-44e9-8f46-36d9b33afcb7": {
+        "name": "ucr-nsbebcoe",
+        "domains": [
+            "nsbe.engr.ucr.edu"
+        ]
+    },
+    "64822444-6988-4cce-8143-ecb79e6faf01": {
+        "name": "ucr-joshuamorganbcoe",
+        "domains": [
+            "timelab.engr.ucr.edu"
+        ]
+    },
+    "660c2b2b-666e-4071-9b6a-1de5c0b7ffdc": {
+        "name": "ucr-elainehabererlabbcoe",
+        "domains": [
+            "habererlab.engr.ucr.edu"
+        ]
+    },
+    "6763c6f5-fdaf-486d-95ef-d86d0cdb4bb8": {
+        "name": "ucr-titaniacoatingsbcoe",
+        "domains": [
+            "titaniacoatings.engr.ucr.edu"
+        ]
+    },
+    "68a0dd2c-3e8b-4e72-a087-ec57e966e93b": {
+        "name": "ucr-csbcoe",
+        "domains": [
+            "dub.cs.ucr.edu",
+            "www1.cs.ucr.edu"
+        ]
+    },
+    "6951719d-2243-4e9b-b0a0-528aefb77540": {
+        "name": "ucr-undergradbcoe",
+        "domains": []
+    },
+    "695a0d15-dda2-4e73-8f11-e6542b1db769": {
+        "name": "ucr-bic2018bcoe",
+        "domains": [
+            "bic2018.engr.ucr.edu"
+        ]
+    },
+    "6ee2c73f-5dcd-4496-bed0-16e332dce4ce": {
+        "name": "ucr-websitesbcoe",
+        "domains": [
+            "websites.engr.ucr.edu"
+        ]
+    },
+    "6f8727c9-9741-43ce-b45f-763ac47ca3af": {
+        "name": "ucr-ramsbcoe",
+        "domains": [
+            "rams.engr.ucr.edu"
+        ]
+    },
+    "6fa8e11f-1e6c-4063-ab2e-b61b974606ec": {
+        "name": "ucr-roboticsbcoe",
+        "domains": [
+            "robotics.ucr.edu",
+            "robotics.engr.ucr.edu"
+        ]
+    },
+    "718c20a7-debc-429e-b963-2e00fbf4ace7": {
+        "name": "ucr-jointesdbcoe",
+        "domains": [
+            "www.jointesd.engr.ucr.edu",
+            "jointesd.ucr.edu",
+            "jointesd.engr.ucr.edu"
+        ]
+    },
+    "73275285-cbd6-4006-9484-2fa5125ff962": {
+        "name": "ucr-crisbcoe",
+        "domains": [
+            "www.cris.ucr.edu",
+            "cris.engr.ucr.edu",
+            "cris.ucr.edu"
+        ]
+    },
+    "76609aa1-6d16-4673-95de-1cefcd97f5ed": {
+        "name": "ucr-cgrconsortiumbcoe",
+        "domains": [
+            "cgr-consortium.engr.ucr.edu"
+        ]
+    },
+    "78f69046-a121-4374-925b-b55448bcd53c": {
+        "name": "ucr-cellulosicbiomasslabbcoe",
+        "domains": [
+            "cellulosicbiomasslab.engr.ucr.edu"
+        ]
+    },
+    "795c81a4-2fda-4183-a480-f5b931bcb469": {
+        "name": "ucr-collinslabbcoe",
+        "domains": [
+            "collinslab.engr.ucr.edu"
+        ]
+    },
+    "82fe94fa-6702-4259-a2af-bb8e8538363c": {
+        "name": "ucr-familyweekendbcoe",
+        "domains": [
+            "bcoefamilyweekend.engr.ucr.edu"
+        ]
+    },
+    "83919d86-341f-44d8-85cf-26608bf79113": {
+        "name": "ucr-cecertbcoe",
+        "domains": [
+            "cert.ucr.edu",
+            "www.cert.ucr.edu"
+        ]
+    },
+    "89a272a6-2269-4571-8815-0057a6978aab": {
+        "name": "ucr-terahertzspinbcoe",
+        "domains": [
+            "terahertzspin.engr.ucr.edu"
+        ]
+    },
+    "8b9326a4-7bd9-4b84-b5a3-d849d58e4f3f": {
+        "name": "ucr-orientationbcoe",
+        "domains": [
+            "orientation.engr.ucr.edu"
+        ]
+    },
+    "8e1f1e98-2288-4fdc-9b27-18a1315d7c81": {
+        "name": "ucr-me2bcoe",
+        "domains": [
+            "me.ucr.edu",
+            "www.me.ucr.edu"
+        ]
+    },
+    "8ecf9266-3c65-4620-a5b6-44a339861cb7": {
+        "name": "ucr-xianglabbcoe",
+        "domains": [
+            "xianglab.ucr.edu"
+        ]
+    },
+    "8f619c99-d671-4a55-a4c7-c5d2c6f67507": {
+        "name": "ucr-beccemmbcoe",
+        "domains": [
+            "beccemm.engr.ucr.edu"
+        ]
+    },
+    "9446d295-12d9-4ef1-9d10-d4596bae519a": {
+        "name": "ucr-treatlabbcoe",
+        "domains": [
+            "treat.ucr.edu"
+        ]
+    },
+    "9b9a903d-3f08-48ad-befa-6acde96299c5": {
+        "name": "ucr-muribcoe",
+        "domains": [
+            "muri.engr.ucr.edu",
+            "muri.ucr.edu"
+        ]
+    },
+    "a1961d61-6365-40dc-832e-6a806b83da8f": {
+        "name": "ucr-studentbcoe",
+        "domains": [
+            "student.engr.ucr.edu"
+        ]
+    },
+    "a1972a9b-5b4a-483e-a7a8-ef0fad8ee005": {
+        "name": "ucr-laksarilabbcoe",
+        "domains": [
+            "laksarilab.engr.ucr.edu",
+            "laksarilab.ucr.edu"
+        ]
+    },
+    "a27f29fe-01f5-4fef-9298-71bc59edfa85": {
+        "name": "ucr-taheribcoe",
+        "domains": [
+            "taheri.engr.ucr.edu",
+            "www.taheri.engr.ucr.edu"
+        ]
+    },
+    "a78d7321-d218-46c0-8db0-4d693af4090e": {
+        "name": "ucr-hknbcoe",
+        "domains": [
+            "hkn.engr.ucr.edu"
+        ]
+    },
+    "a8f2ea26-3452-4390-96c6-5b82c2303d7c": {
+        "name": "ucr-engr3bcoe",
+        "domains": [
+            "undergraduate.engr.ucr.edu",
+            "bournscollege.ucr.edu",
+            "bcoe.ucr.edu",
+            "engr.ucr.edu",
+            "www.engr.ucr.edu"
+        ]
+    },
+    "aeed73e9-4dbe-46d4-8670-9dd5fb417a7f": {
+        "name": "ucr-msolbcoe",
+        "domains": [
+            "msol.engr.ucr.edu",
+            "www.msol.ucr.edu",
+            "msol.ucr.edu"
+        ]
+    },
+    "b0799d04-7821-47cf-ac6c-afdd9326b50b": {
+        "name": "ucr-bioeng2bcoe",
+        "domains": [
+            "www.bioengineering.ucr.edu",
+            "bioengineering.ucr.edu",
+            "bioeng.ucr.edu",
+            "www.bioeng.ucr.edu"
+        ]
+    },
+    "b1b5f98b-a654-4d6a-8941-387dd1e1f54d": {
+        "name": "ucr-gelabbcoe",
+        "domains": [
+            "gelab.engr.ucr.edu"
+        ]
+    },
+    "b39130a1-baa0-4111-adb6-8e1d70e9f097": {
+        "name": "ucr-ieeesynchrowaveformbcoe",
+        "domains": [
+            "ieee-synchrowaveform.engr.ucr.edu"
+        ]
+    },
+    "b4553682-c6e7-432a-8db6-06e959ade160": {
+        "name": "ucr-rupiperlabbcoe",
+        "domains": [
+            "rupiperlab.engr.ucr.edu"
+        ]
+    },
+    "bb92fc0a-71a5-4746-b5e9-b78847a984c2": {
+        "name": "ucr-ece2bcoe",
+        "domains": [
+            "ee.ucr.edu",
+            "www.ee.ucr.edu",
+            "ece.ucr.edu",
+            "www.ece.ucr.edu"
+        ]
+    },
+    "be309b47-fe78-439c-b9dc-2ee38d658ed0": {
+        "name": "ucr-datasciencebcoe",
+        "domains": [
+            "datascience.engr.ucr.edu",
+            "datascience.ucr.edu"
+        ]
+    },
+    "bfe07d5a-1894-46d8-b714-fae787eecb70": {
+        "name": "ucr-younjinlabbcoe",
+        "domains": [
+            "yminlab.engr.ucr.edu"
+        ]
+    },
+    "c195ae63-5028-4256-a4bc-7a7a9f058f3d": {
+        "name": "ucr-mesabcoe",
+        "domains": [
+            "mesa.engr.ucr.edu"
+        ]
+    },
+    "c59ea290-8d43-4a74-8910-ea42c2d6a8c4": {
+        "name": "ucr-vafailabbcoe",
+        "domains": [
+            "vafai.engr.ucr.edu"
+        ]
+    },
+    "c787ca83-e644-485c-8daa-daf953f7b7ea": {
+        "name": "ucr-guobcoe",
+        "domains": [
+            "guolab.engr.ucr.edu"
+        ]
+    },
+    "c898a874-d7fd-4ef7-95e0-40eb745ca640": {
+        "name": "ucr-wcgecbcoe",
+        "domains": [
+            "www.wcgec.ucr.edu",
+            "wcgec.ucr.edu"
+        ]
+    },
+    "c923ccc5-4d0b-41d2-b47a-b6b40a70530d": {
+        "name": "ucr-biggsabcoe",
+        "domains": [
+            "biggsa.engr.ucr.edu"
+        ]
+    },
+    "d0eb5f08-15db-4a7d-b645-496495734097": {
+        "name": "ucr-morikissymposiumbcoe",
+        "domains": [
+            "morikis-symposium.engr.ucr.edu"
+        ]
+    },
+    "d259ba5f-f4a8-42c4-8b8c-a529b4ca5bf8": {
+        "name": "ucr-jwulabbcoe",
+        "domains": [
+            "jwulab.engr.ucr.edu"
+        ]
+    },
+    "d4fc93b9-8aa9-4835-afb0-e5eeadbdedab": {
+        "name": "ucr-sciencetopolicy",
+        "domains": [
+            "s2p.ucr.edu",
+            "sciencetopolicy.ucr.edu"
+        ]
+    },
+    "d9736dfe-f8f0-4613-b8b0-70ed63cdd526": {
+        "name": "ucr-menlabbcoe",
+        "domains": [
+            "menlab.engr.ucr.edu"
+        ]
+    },
+    "dac30b90-b979-46f1-8fd6-6206015f4caf": {
+        "name": "ucr-hulabbcoe",
+        "domains": [
+            "hulab.engr.ucr.edu",
+            "hu.engr.ucr.edu"
+        ]
+    },
+    "dc2d368e-0d6a-4521-b0a4-bc1dbced38fa": {
+        "name": "ucr-b2kbcoe",
+        "domains": [
+            "b2k.engr.ucr.edu"
+        ]
+    },
+    "dd14d5db-baee-4f8d-a331-3eead1bb2a5e": {
+        "name": "ucr-cib",
+        "domains": [
+            "cib.ucr.edu",
+            "cib.engr.ucr.edu"
+        ]
+    },
+    "dd4eeccb-ab40-4d62-a23f-247689b42dee": {
+        "name": "ucr-stridebcoe",
+        "domains": [
+            "stride.engr.ucr.edu"
+        ]
+    },
+    "de34c28f-03eb-41d2-abdb-596988e27713": {
+        "name": "ucr-lorenzobcoe",
+        "domains": [
+            "lorenzo.engr.ucr.edu"
+        ]
+    },
+    "df50459f-dcaf-4d12-a8a3-fb40a311cb98": {
+        "name": "ucr-ds4gbcoe",
+        "domains": [
+            "ds4g.cs.ucr.edu"
+        ]
+    },
+    "e15e14c5-21c4-418a-b976-70354a77f641": {
+        "name": "ucr-liugroup-bcoe",
+        "domains": [
+            "liugroup.ucr.edu"
+        ]
+    },
+    "e1badcfe-98ca-467c-89aa-3e66fc92a44b": {
+        "name": "ucr-bioannualreport2020bcoe",
+        "domains": [
+            "bioannualreport2020.engr.ucr.edu"
+        ]
+    },
+    "e22ae800-648d-43c0-9069-fc1461420e8c": {
+        "name": "ucr-schultzlecturesbcoe",
+        "domains": [
+            "schultzlectures.engr.ucr.edu"
+        ]
+    },
+    "e3e8a12c-8251-41d3-bfeb-c704fdea36be": {
+        "name": "ucr-shpebcoe",
+        "domains": []
+    },
+    "e4fe9873-43fb-4fe2-8c35-0afed58e8d33": {
+        "name": "ucr-testcentercsbcoe",
+        "domains": [
+            "testcenter.cs.ucr.edu"
+        ]
+    },
+    "e752e0e8-db8b-4e2e-ae2c-3455b5b64ea3": {
+        "name": "ucr-memencys",
+        "domains": [
+            "memencys.ucr.edu"
+        ]
+    },
+    "ed0084a6-8503-445c-8fe1-47b876a6c9ed": {
+        "name": "ucr-nlpcsbcoe",
+        "domains": [
+            "nlp.cs.ucr.edu"
+        ]
+    },
+    "ee6f85ca-07fb-4fa4-bda8-30e91cc84e29": {
+        "name": "ucr-megsabcoe",
+        "domains": [
+            "megsa.me.ucr.edu",
+            "megsa.engr.ucr.edu"
+        ]
+    },
+    "f0073fbc-a518-4f81-9a58-5e4e8d236347": {
+        "name": "ucr-coelcbcoe",
+        "domains": []
+    },
+    "f203135d-6da5-48c8-9a94-6806e1fb4a2f": {
+        "name": "ucr-iasprojectbcoe",
+        "domains": [
+            "iasproject.engr.ucr.edu"
+        ]
+    },
+    "f2ea5a5b-5a13-4e3f-ad76-60f74b18b545": {
+        "name": "ucr-ceanbcoe",
+        "domains": [
+            "cean.ucr.edu",
+            "cean.engr.ucr.edu"
+        ]
+    },
+    "f4920915-fcbf-45bb-8cfa-17c7d5d38539": {
+        "name": "ucr-taslbcoe",
+        "domains": [
+            "tasl.ucr.edu",
+            "tasl.engr.ucr.edu"
+        ]
+    }
+}
