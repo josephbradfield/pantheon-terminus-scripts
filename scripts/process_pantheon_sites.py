@@ -20,8 +20,8 @@ def process_pantheon_sites(input_file=None):
     script_dir = get_script_dir()
 
     if input_file is None:
-        # If no input file is provided, default to 'pantheon-domains.json' in the script's directory
-        input_file = os.path.join(script_dir, 'pantheon-domains.json')
+        # If no input file is provided, default to 'pantheon-sites.json' in the output directory
+        input_file = os.path.join(script_dir, '..', 'output', 'pantheon-sites.json')
         # Check if the default file exists
         if not os.path.exists(input_file):
             print(f"Default file {input_file} not found. Running script to generate it...")
