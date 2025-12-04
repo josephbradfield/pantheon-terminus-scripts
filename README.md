@@ -3,27 +3,26 @@
 This directory contains scripts for fetching and processing information about Pantheon sites.
 
 ## Scripts
- 
-### `fetch_pantheon_sites.sh`
 
-This script fetches a list of all Pantheon sites associated with the authenticated user and saves the output to a file named `pantheon-sites.json` in the same directory.
+### `scripts/fetch_pantheon_sites.sh`
+
+This script fetches a list of all Pantheon sites associated with the authenticated user and saves the output to `output/pantheon-sites.json`.
 
 **Dependencies:**
 - [Terminus](https://pantheon.io/docs/terminus)
 
 **Usage:**
 ```bash
-./fetch_pantheon_sites.sh
+./scripts/fetch_pantheon_sites.sh
 ```
 
-### `process_pantheon_sites.py`
+### `scripts/process_pantheon_sites.py`
 
-This script processes a JSON file containing a list of Pantheon sites, filters for sites on the "Basic" plan, and fetches the domains for each of those sites.
+This script processes `output/pantheon-sites.json`, filters for sites on the "Basic" plan, and fetches the domains for each of those sites, saving the result to `output/pantheon-domains.json`.
 
 **Features:**
-- Accepts a command-line argument for the input file path.
-- If no input file is provided, it defaults to looking for `pantheon-domains.json` in the script's directory.
-- If the default file is not found, it will run the `fetch_pantheon_sites.sh` script to generate it.
+- If `output/pantheon-sites.json` is not found, it will run the `fetch_pantheon_sites.sh` script to generate it.
+- You can also provide a path to a different site list file as a command-line argument.
 
 **Dependencies:**
 - Python 3
@@ -31,27 +30,53 @@ This script processes a JSON file containing a list of Pantheon sites, filters f
 
 **Usage:**
 
-To run the script with the default behavior (using `pantheon-domains.json` or generating it):
+To run the script with the default behavior:
 ```bash
-python process_pantheon_sites.py
+python scripts/process_pantheon_sites.py
 ```
 
 To specify an input file:
 ```bash
-python process_pantheon_sites.py /path/to/your/sites.json
+python scripts/process_pantheon_sites.py /path/to/your/sites.json
 ```
 
-**Note:** your custom input file needs to be formatted   `id`, `name` and `plan_name` are required.
-```json
-"055ac97f-ec08-4457-be93-9feae1eb45aa": {
-        "name": "ucr-pantheonsitename",
-        "id": "055ac97f-ec08-4457-be93-9feae1eb45aa",
-        "plan_name": "Basic",
-        "framework": "drupal8",
-        "region": "United States",
-        "owner": "d5bc99d7-58d8-4de2-96bf-d29681afc848",
-        "created": 1652824950,
-        "memberships": "043b424f-9618-4043-bfd6-f666755df151: Team",
-        "frozen": false
-    },
+### `scripts/parse_domains.py`
+
+This script reads `output/pantheon-domains.json`, extracts all domains, and writes them to `output/drupal_domains.csv` with `name` and `domain` columns.
+
+**Dependencies:**
+- Python 3
+
+**Usage:**
+```bash
+python scripts/parse_domains.py
+```
+
+### `scripts/block_user.sh`
+
+This script blocks one or more user accounts on a list of Pantheon sites.
+
+**Features:**
+- By default, it reads the site list from `output/pantheon-sites.json`.
+- You can specify a different site list file using the `--source` flag.
+
+**Dependencies:**
+- [Terminus](https://pantheon.io/docs/terminus)
+- [jq](https://stedolan.github.io/jq/)
+
+**Usage:**
+
+To block one user:
+```bash
+./scripts/block_user.sh <username>
+```
+
+To block multiple users:
+```bash
+./scripts/block_user.sh <username1> <username2>
+```
+
+To use a custom site list:
+```bash
+./scripts/block_user.sh --source /path/to/sites.json <username>
 ```
